@@ -1,4 +1,4 @@
-import intro from "./intro.png";
+import intro from "./intro.webp";
 import Aseem from "./aseemGif.gif";
 import Tanya from "./tanyaGif.gif";
 import heart from "./heart.webp";
@@ -9,7 +9,7 @@ import saveTheDate from "./saveTheDate.webp";
 import brideGroom from "./bride.webp";
 import rajwadaMap from "./rajwadaMap.webp";
 import pagodaMap from "./pagodaMap.webp";
-import vishwasMap from "./vishwasMap.png";
+import vishwasMap from "./vishwasMap.webp";
 import bhai from "./bhai.jpg";
 import muma from "./muma.jpg";
 import tayi from "./tayi.jpg";
