@@ -1,4 +1,4 @@
-import intro from "./intro.webp";
+import intro from "./intro.png";
 import Aseem from "./aseemGif.gif";
 import Tanya from "./tanyaGif.gif";
 import heart from "./heart.webp";
@@ -9,13 +9,11 @@ import saveTheDate from "./saveTheDate.webp";
 import brideGroom from "./bride.webp";
 import rajwadaMap from "./rajwadaMap.webp";
 import pagodaMap from "./pagodaMap.webp";
-import homeMap from "./homeMap.webp";
-import cgrMap from "./cgrMap.webp";
-import tayi from "./taya.webp";
-import muma from "./papa.webp";
-import divya from "./kaku.webp";
-import gudu from "./jiju.webp";
-
+import vishwasMap from "./vishwasMap.png";
+import bhai from "./bhai.jpg";
+import muma from "./muma.jpg";
+import tayi from "./tayi.jpg";
+import didi from "./didii.jpg";
 
 export const imgs = {
   specialRequest,
@@ -27,12 +25,11 @@ export const imgs = {
   Tanya,
   ring,
   saveTheDate,
-  muma,
-  tayi,
-  gudu,
-  divya,
-  homeMap,
-  cgrMap,
   rajwadaMap,
   pagodaMap,
+  vishwasMap,
+  bhai,
+  muma,
+  tayi,
+  didi
 };

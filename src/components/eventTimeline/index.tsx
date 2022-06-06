@@ -22,41 +22,41 @@ function EventTimeline() {
       shadowColor: "rgba(124, 30, 37, 0.2)",
     },
     {
-      date: "Monday, 20 June 2022",
-      time: "04:00pm",
-      function: "Mehendi",
-      logo: imgs.homeMap,
-      name: "Our Residence",
-      address: "1 C Mahaveer international colony, Behind Vridhashram",
-      url: "https://goo.gl/maps/M8ePXHSZoC4KwQfR7",
-      color: "rgba(0, 100, 73, 0.9)",
-      shadowColor: "rgba(0, 100, 73, 0.2)",
-    },
-    {
-      date: "Tuesday, 21 June 2022",
-      time: "05:00pm",
-      function: "Ladies Sangeet",
-      logo: imgs.cgrMap,
-      name: "Hotel Black Panther",
-      address: "7th Floor, CGR Mall, Hanumangarh Road, Chahal Chowk",
-      url: "https://goo.gl/maps/XbYBDeBBzgpFArjB6",
-      color: "rgba(19, 89, 144, 0.9)",
-      shadowColor: "rgba(19, 89, 144, 0.2)",
-    },
-    {
       date: "Wednesday, 22 June 2022",
-      time: "11:00am",
+      time: "10:15am",
       function: "Haldi",
-      logo: imgs.homeMap,
-      name: "Our Residence",
-      address: "1 C Mahaveer international colony, Behind Vridhashram",
-      url: "https://goo.gl/maps/M8ePXHSZoC4KwQfR7",
+      logo: imgs.vishwasMap,
+      name: "Hotel Vishvas Residency",
+      address: "Hanumangarh Road, Ramdev Colony",
+      url: "https://goo.gl/maps/Hgia8fbPSVWUencC8",
       color: "rgba(219, 151, 31, 1)",
       shadowColor: "rgba(219, 151, 31, 0.2)",
     },
     {
+      date: "Wednesday, 22 June 2022",
+      time: "03:00pm",
+      function: "Mehendi",
+      logo: imgs.vishwasMap,
+      name: "Hotel Vishvas Residency",
+      address: "Hanumangarh Road, Ramdev Colony",
+      url: "https://goo.gl/maps/Hgia8fbPSVWUencC8",
+      color: "rgba(0, 100, 73, 0.9)",
+      shadowColor: "rgba(0, 100, 73, 0.2)",
+    },
+    {
+      date: "Wednesday, 22 June 2022",
+      time: "08:00pm",
+      function: "Ladies Sangeet",
+      logo: imgs.vishwasMap,
+      name: "Hotel Vishvas Residency",
+      address: "Hanumangarh Road, Ramdev Colony",
+      url: "https://goo.gl/maps/Hgia8fbPSVWUencC8",
+      color: "rgba(19, 89, 144, 0.9)",
+      shadowColor: "rgba(19, 89, 144, 0.2)",
+    },  
+    {
       date: "Thursday, 23 June 2022",
-      time: "09:00pm",
+      time: "08:15pm",
       function: "Wedding",
       logo: imgs.rajwadaMap,
       name: "Fort Rajwada",
@@ -136,7 +136,10 @@ function EventTimeline() {
                 </Text>
                 <Text
                   size={FontSize.Small}
-                  styles={{ marginTop: "0.5rem",  fontFamily: "Times new Roman"}}
+                  styles={{
+                    marginTop: "0.5rem",
+                    fontFamily: "Times new Roman",
+                  }}
                   color="white"
                 >
                   {item?.address}

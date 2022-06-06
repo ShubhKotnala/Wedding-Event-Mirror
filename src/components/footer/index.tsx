@@ -20,7 +20,7 @@ function Footer() {
         size={FontSize.Regular}
         styles={{ marginTop: "0.7rem", fontFamily: "caveat" }}
       >
-        - Aseem & Tanya
+        - Tanya & Aseem
       </Text>
     </StyledContainer>
   );

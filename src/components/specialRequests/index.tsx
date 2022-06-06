@@ -8,23 +8,23 @@ function SpecialRequests() {
   const relatives = [
     {
       logo: imgs.tayi,
-      name: "Geeta & Naveen Bansal",
-      relationship: "Tayi - Taya",
+      name: "Premlata & OP Sharma",
+      relationship: "Tayi ji - Taya ji",
     },
     {
       logo: imgs.muma,
-      name: "Neelu & Sandeep Bansal",
+      name: "Madhu bala & PL Sharma",
       relationship: "Mumma - Papa",
     },
     {
-      logo: imgs.gudu,
-      name: "Nitika & Neeraj Garg",
-      relationship: "Behen - Jiju",
+      logo: imgs.didi,
+      name: "Kiran & Raj Kumar Sharma",
+      relationship: "Didi - Jija ji",
     },
     {
-      logo: imgs.divya,
-      name: "Divya & Nitin Bansal",
-      relationship: "Bhabhi - Bhai",
+      logo: imgs.bhai,
+      name: "Devkaran & Aashutosh Parashar",
+      relationship: "Bhanje",
     },
   ];
 
