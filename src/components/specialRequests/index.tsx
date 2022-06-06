@@ -24,7 +24,7 @@ function SpecialRequests() {
     {
       logo: imgs.bhai,
       name: "Devkaran & Aashutosh Parashar",
-      relationship: "Bhanje",
+      relationship: "Bhaanje",
     },
   ];
 
