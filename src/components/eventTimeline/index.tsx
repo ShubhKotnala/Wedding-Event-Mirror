@@ -10,18 +10,7 @@ import MyImage from "../../helpers/image";
 
 function EventTimeline() {
   const venues = [
-    {
-      date: "Sunday, 19 June 2022",
-      time: "12:00pm",
-      function: "Ring Ceremony",
-      logo: imgs.pagodaMap,
-      name: "Pagoda Hotel",
-      address: "14 Gol Bazar, Near Railway Station",
-      url: "https://goo.gl/maps/X24ZuDZQfYUUJBJBA",
-      color: "rgba(124, 30, 37, 0.9)",
-      shadowColor: "rgba(124, 30, 37, 0.2)",
-    },
-    {
+     {
       date: "Wednesday, 22 June 2022",
       time: "10:15am",
       function: "Haldi",
